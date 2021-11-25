@@ -1,5 +1,5 @@
 <h1 align="center">
-    <a href="https://vicenzofarias.netlify.app/">Portfólio</a>
+    <a href="https://vicenzofarias.netlify.app/" target="__blank">Portfólio</a>
 </h1>
 <p align="center">Site desenvolvido para criação do meu site, para mostrar minhas habilidades, meus projetos e divulgar meu contato.</p>
 <h1>Ferramentas usadas</h1>
