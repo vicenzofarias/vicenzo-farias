@@ -5,6 +5,6 @@
 <h1>Ferramentas usadas</h1>
 <ul>
 <li><i class="uil uil-html5">HTML</i></li>
-<li><i class="uil uil-css3-simple">CSS3</i></li>
+<li><i class="uil uil-css3-simple">CSS</i></li>
 <li><i class="uil uil-java-script">JavaScript</i></li>
 </ul>
