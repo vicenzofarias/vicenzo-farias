@@ -1,7 +1,4 @@
-<h1 align="center">Portfólio</h1>
-<p align="center">Site desenvolvido para criação do meu site, para mostrar minhas habilidades, meus projetos e divulgar meu contato.</p>
-
-h1 align="center">
+<h1 align="center">
     <a href="https://vicenzofarias.netlify.app/">Portfólio</a>
 </h1>
 <p align="center">Site desenvolvido para criação do meu site, para mostrar minhas habilidades, meus projetos e divulgar meu contato.</p>
